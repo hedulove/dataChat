@@ -1,0 +1,11 @@
+date,product_category,product_name,quantity,unit_price,customer_age,customer_gender,payment_method,customer_rating,customer_location,total_amount
+2023-01-03,Electronics,Laptop,3,856.32,45,M,Credit Card,4,Chicago,2568.96
+2023-01-05,Clothing,T-shirt,2,35.67,28,F,PayPal,5,New York,71.34
+2023-01-07,Books,Fiction Novel,1,24.99,33,F,Credit Card,4,Los Angeles,24.99
+2023-01-08,Home & Garden,Garden Tools,4,89.50,52,M,Bank Transfer,3,Houston,358.00
+2023-01-10,Sports,Yoga Mat,2,45.99,31,F,Credit Card,5,Phoenix,91.98
+2023-01-12,Electronics,Smartphone,1,699.99,22,M,PayPal,4,New York,699.99
+2023-01-15,Clothing,Dress,3,125.50,39,F,Credit Card,5,Chicago,376.50
+2023-01-17,Books,Technical Book,2,44.99,27,M,Cash,4,Los Angeles,89.98
+2023-01-19,Home & Garden,Lamp,1,75.25,48,F,Credit Card,3,Philadelphia,75.25
+2023-01-21,Sports,Running Shoes,1,129.99,35,M,PayPal,5,Houston,129.99
