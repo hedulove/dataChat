@@ -113,4 +113,23 @@ This tool stitches components together into a final, production-ready React layo
 * **API Limits**: Ensure your OpenAI account has sufficient credits for `gpt-4-turbo-preview` calls.
 * **Layout Issues**: The Assembler expects a `master_react.html` with specific markers (`/* COMPONENTS_GO_HERE */` and `{/* GRID_CONTENT_GOES_HERE */}`).
 
-Would you like me to generate a sample `master_react.html` template to help you get started?
+
+---
+
+## ## 👤 Developer
+
+**Hector Duran** *Main Creator and Lead Architect*
+
+---
+
+## ## 📄 License
+
+This project is licensed under the **MIT License**.
+
+> **Summary**: You are free to use, copy, and modify this software for any purpose. The only requirement is that the original copyright notice and this permission notice must be included in all copies or substantial portions of the software.
+
+---
+
+
+
+
